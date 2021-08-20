@@ -26,3 +26,6 @@ Carthage/
 Cartfile.resolved
 
 Pods/
+
+.swiftpm
+Package.resolved

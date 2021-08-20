@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/tristanhimmelman/ObjectMapper.git",
         "state": {
           "branch": null,
-          "revision": "19d499c65b8240f1220d7cf155ccd309857f8018",
-          "version": "3.5.1"
+          "revision": "5804d5446eb68b56c61497656cbc7bb6652f069b",
+          "version": "3.5.3"
         }
       },
       {
@@ -15,17 +15,17 @@
         "repositoryURL": "https://github.com/realm/realm-cocoa.git",
         "state": {
           "branch": null,
-          "revision": "9eec060b00e5dc7f00f1b06830eb78d62c44bb07",
-          "version": "3.20.0"
+          "revision": "ae8e646590396dfc13c1abbf8aa2e48c43766dce",
+          "version": "10.7.2"
         }
       },
       {
-        "package": "RealmCore",
+        "package": "RealmDatabase",
         "repositoryURL": "https://github.com/realm/realm-core",
         "state": {
           "branch": null,
-          "revision": "512dfaa4f59930e193c92e00ba1924bde69b19de",
-          "version": "5.23.5"
+          "revision": "bab46acdca91c417a0d4849b8f4992a3c17e29a5",
+          "version": "10.5.5"
         }
       }
     ]
